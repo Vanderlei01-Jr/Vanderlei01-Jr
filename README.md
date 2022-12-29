@@ -17,4 +17,4 @@
 <img align="center" alt="j=Java" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 </div><br/><br/>
 
-Recem formado em Analise e desenvolvimento e Sistemas, sempre procurando um meio de facilitar a vida de todos por meio do uso da programação. Procurando sempre estar sempre o mais atualizado possivel, buscando meu lugar no mercado.
+Recem formado em Analise e desenvolvimento de sistemas. Sempre procurando um meio de facilitar a vida de todos por meio do uso da programação. Procurando sempre estar o mais atualizado possivel, buscando meu lugar no mercado.
